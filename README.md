@@ -1,5 +1,4 @@
-
-<h1 align="left">My name is Andrius Anselmi, and I'm in my first year of Computer Science. Passionate about technology, graphics programming, and complex algorithms. A fanatic Grêmio supporter and an eternal bug creator.</h1>
+<h4 align="left">My name is Andrius Anselmi, and I'm in my first year of Computer Science. Passionate about technology, graphics programming, and complex algorithms. A fanatic Grêmio supporter and an eternal bug creator.</h4>
 
 ###
 
