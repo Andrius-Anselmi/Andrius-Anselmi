@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first line of code.<br>📚 I'm currently learning Java, Spring Boot, MySQL, graphics programming, and complex algorithms.<br>🎯 Goals: Master back-end development, build solid APIs, and dive deeper into graphics programming.<br>🎲 Fun fact: I love graphics programming and complex algorithms, but I absolutely hate front-end.</p>
+<p align="left">✨ Creating bugs since I wrote my first line of code.<br>📚 I'm currently learning Java, Spring Boot, MySQL, graphics programming, and complex algorithms.<br>🎯 Goals: Master back-end development, build solid APIs, and dive deeper into graphics programming.<br></p>
 
 ###
 
