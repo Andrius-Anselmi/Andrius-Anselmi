@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">🌱 I’m currently learning Docker, AWS, Linux, and automation for cloud environments.<br><br>💬 Ask me about → Java, Spring Boot, MySQL, Docker, AWS<br><br>📫 How to reach me aandrius.anselmi@gmail.com<br><br>⚡ Fun fact I'm deeply curious about programming in C, especially when it comes to low-level hardware interactions.</h6>
+<h4 align="left">🌱 I’m currently learning Docker, AWS, Linux, and automation for cloud environments.<br><br>💬 Ask me about → Java, Spring Boot, MySQL, Docker, AWS<br><br>📫 How to reach me aandrius.anselmi@gmail.com<br><br>⚡ Fun fact I'm deeply curious about programming in C, especially when it comes to low-level hardware interactions.</h4>
 
 ###
 
@@ -19,15 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 
 ###
