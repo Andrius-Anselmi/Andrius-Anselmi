@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Docker, AWS, Linux, and automation for cloud environments.<br><br>💬 Ask me about → Java, Spring Boot, MySQL, Docker, AWS<br><br>📫 How to reach me aandrius.anselmi@gmail.com <br><br>⚡ Fun fact I'm deeply curious about programming in C, especially when it comes to low-level hardware interactions.</h4>
+<h4 align="left">🌱 I’m currently learning Docker, AWS, Linux, and automation for cloud environments.<br><br>💬 Ask me about → Java, Spring Boot, MySQL, Docker, AWS<br><br>📫 How to reach me aandrius.anselmi@gmail.com <br><br></h4>
 
 ###
 
