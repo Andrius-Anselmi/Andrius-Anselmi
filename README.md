@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I'm Andrius Anselmi, a back-end developer experienced with Java, Spring Boot, and REST APIs. Currently expanding my knowledge in cloud computing ☁️, Docker 🐳, and Kubernetes. Focused on building scalable solutions and growing as a developer. 💡</h4>
+<h4 align="left">👋 Hi, I'm Andrius Anselmi, a back-end developer. My current focus is on learning and working with cloud computing ☁️, Docker 🐳, and Kubernetes. This builds upon my experience with Java, Spring Boot, and REST APIs, as I aim to create scalable solutions and continuously grow as a developer. 💡</h4>
 
 ###
 
