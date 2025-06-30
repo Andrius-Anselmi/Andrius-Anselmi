@@ -1,48 +1,48 @@
-<h3 align="left">👋 Hi, I'm Andrius Anselmi — Back-end Developer</h3>
+<h3 align="left">👋 Olá, eu sou Andrius Anselmi — Desenvolvedor Back-end</h3>
 
 <p align="left">
-  I'm currently focused on learning and working with <strong>cloud computing ☁️, Docker 🐳, and Kubernetes</strong>.<br>
-  I build on a solid foundation in <strong>Java, Spring Boot, and RESTful APIs</strong>, aiming to deliver scalable and reliable solutions while continuously growing as a developer. 💡
+  Atualmente, estou focado em aprender e trabalhar com <strong>computação em nuvem ☁️, Docker 🐳 e Kubernetes</strong>.<br>
+  Tenho uma base sólida em <strong>Java, Spring Boot e APIs RESTful</strong> e busco entregar soluções escaláveis e confiáveis, sempre evoluindo como desenvolvedor. 💡
 </p>
 
 <hr>
 
-<h2 align="left">🧠 About Me</h2>
+<h2 align="left">🧠 Sobre mim</h2>
 
 <ul align="left">
-  <li>🌱 Currently learning: Docker, AWS, Linux, and infrastructure automation</li>
-  <li>💬 Ask me about: Java, Spring Boot, Docker, AWS</li>
-  <li>📫 Reach me at: <a href="mailto:aandrius.anselmi@gmail.com">aandrius.anselmi@gmail.com</a></li>
+  <li>🌱 Aprendendo atualmente: Docker, AWS, Linux e automação de infraestrutura</li>
+  <li>💬 Fique à vontade para falar comigo sobre: Java, Spring Boot, Docker</li>
+  <li>📫 Contato: <a href="mailto:aandrius.anselmi@gmail.com">aandrius.anselmi@gmail.com</a></li>
 </ul>
 
 <hr>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tecnologias</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Logo Java" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="Logo C" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++ logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="Logo C++" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Logo Spring" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Logo MySQL" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="Logo PostgreSQL" />
 </div>
 
 <hr>
 
-<h2 align="left">📈 GitHub Activity</h2>
+<h2 align="left">📈 Atividade no GitHub</h2>
 
-<img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/output/snake.svg" alt="GitHub contribution snake animation showing my activity" />
+<img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/output/snake.svg" alt="Animação Snake mostrando minha atividade no GitHub" />
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrius-Anselmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrius-Anselmi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app?username=Andrius-Anselmi&theme=tokyonight&column=-1&row=1&margin-w=9&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="GitHub trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrius-Anselmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrius-Anselmi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-trophy.vercel.app?username=Andrius-Anselmi&theme=tokyonight&column=-1&row=1&margin-w=9&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Troféus do GitHub" />
 </div>
