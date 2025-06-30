@@ -1,16 +1,20 @@
-<h4 align="left">👋 Hi, I'm Andrius Anselmi, a back-end developer. My current focus is on learning and working with cloud computing ☁️, Docker 🐳, and Kubernetes. This builds upon my experience with Java, Spring Boot, and REST APIs, as I aim to create scalable solutions and continuously grow as a developer. 💡</h4>
+<h3 align="left">👋 Hi, I'm Andrius Anselmi — Back-end Developer</h3>
 
-###
+<p align="left">
+  I'm currently focused on learning and working with <strong>cloud computing ☁️, Docker 🐳, and Kubernetes</strong>.<br>
+  I build on a solid foundation in <strong>Java, Spring Boot, and RESTful APIs</strong>, aiming to deliver scalable and reliable solutions while continuously growing as a developer. 💡
+</p>
 
-<p align="left"></p>
+<br>
 
-###
+<h2 align="left">🧠 About Me</h2>
 
-<h2 align="left">About me</h2>
+<ul align="left">
+  <li>🌱 Currently learning: Docker, AWS, Linux, and infrastructure automation</li>
+  <li>💬 Ask me about: Java, Spring Boot,Docker, AWS</li>
+  <li>📫 Reach me at: <a href="mailto:aandrius.anselmi@gmail.com">aandrius.anselmi@gmail.com</a></li>
+</ul>
 
-###
-
-<h4 align="left">🌱 I’m currently learning Docker, AWS, Linux, and automation for cloud environments.<br><br>💬 Ask me about → Java, Spring Boot, MySQL, Docker, AWS<br><br>📫 How to reach me aandrius.anselmi@gmail.com <br><br></h4>
 
 ###
 
@@ -28,6 +32,9 @@
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" />
+
 </div>
 
 ###
