@@ -2,7 +2,7 @@
 
 <p align="left">
   Atualmente, estou focado em aprender e trabalhar com <strong>computação em nuvem ☁️, Docker 🐳 e Kubernetes</strong>.<br>
-  Tenho uma base sólida em <strong>Java, Spring Boot e APIs RESTful</strong> e busco entregar soluções escaláveis e confiáveis, sempre evoluindo como desenvolvedor. 💡
+  Tenho uma base sólida em <strong>Java, Spring Boot e APIs RESTful</strong> 💡
 </p>
 
 <hr>
