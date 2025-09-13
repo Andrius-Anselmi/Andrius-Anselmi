@@ -35,12 +35,6 @@
 <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="Logo PostgreSQL" />
 <img width="20" />
 
-
-  
-  <h1>Hi 👋, I'm </h1>
-
-
-
 </div>
 
 <hr>
