@@ -20,17 +20,27 @@
 <h2 align="left">🛠️ Tecnologias</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Logo Java" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="Logo C" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="Logo C++" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Logo Spring" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Logo MySQL" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="Logo PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Logo Android Studio" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=flutter" height="60" alt="Logo Flutter" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=dart" height="60" alt="Logo Dart" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="Logo Java" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Logo Spring" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Logo MySQL" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="Logo PostgreSQL" />
+<img width="20" />
+
+
+  
+  <h1>Hi 👋, I'm </h1>
+
+
+
 </div>
 
 <hr>
