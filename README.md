@@ -42,7 +42,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrius-Anselmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Andrius-Anselmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrius-Anselmi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
   <img src="https://github-profile-trophy.vercel.app?username=Andrius-Anselmi&theme=tokyonight&column=-1&row=1&margin-w=9&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Troféus do GitHub" />
 </div>
