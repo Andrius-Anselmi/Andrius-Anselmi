@@ -1,8 +1,8 @@
-<h3 align="left">👋 Olá, eu sou Andrius Anselmi — Desenvolvedor Back-end</h3>
+<h3 align="left">👋 Olá, eu sou Andrius Anselmi — Estagiário em Desenvolvimento Mobile</h3>
 
 <p align="left">
-  Atualmente, estou focado em aprender e trabalhar com <strong>computação em nuvem ☁️, Docker 🐳 e Kubernetes</strong>.<br>
-  Tenho uma base sólida em <strong>Java, Spring Boot e APIs RESTful</strong> 💡
+  Atualmente atuo como <strong>estagiário de desenvolvimento mobile 📱</strong>, trabalhando com <strong>Flutter e Kotlin</strong>.<br>
+  Venho aprofundando meus estudos em <strong>Flutter, Dart e Kotlin</strong>, com foco em boas práticas, UI responsiva e integração com APIs 💡
 </p>
 
 <hr>
@@ -10,31 +10,25 @@
 <h2 align="left">🧠 Sobre mim</h2>
 
 <ul align="left">
-  <li>🌱 Aprendendo atualmente: Docker, AWS, Linux e automação de infraestrutura</li>
-  <li>💬 Fique à vontade para falar comigo sobre: Java, Spring Boot, Docker</li>
+ <ul align="left">
+  <li>🌱 Estudando atualmente: Flutter, Dart, Kotlin e desenvolvimento mobile</li>
+  <li>💬 Podemos conversar sobre: Flutter, Dart, Kotlin e Android</li>
   <li>📫 Contato: <a href="mailto:aandrius.anselmi@gmail.com">aandrius.anselmi@gmail.com</a></li>
+</ul>
 </ul>
 
 <hr>
 
 <h2 align="left">🛠️ Tecnologias</h2>
-
 <div align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Logo Android Studio" />
-<img width="20" />
-<img src="https://skillicons.dev/icons?i=flutter" height="60" alt="Logo Flutter" />
-<img width="20" />
-<img src="https://skillicons.dev/icons?i=dart" height="60" alt="Logo Dart" />
-<img width="20" />
-<img src="https://skillicons.dev/icons?i=java" height="60" alt="Logo Java" />
-<img width="20" />
-<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Logo Spring" />
-<img width="20" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Logo MySQL" />
-<img width="20" />
-<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="Logo PostgreSQL" />
-<img width="20" />
-
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="Logo Flutter" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="Logo Dart" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="Logo Kotlin" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Logo Android Studio" />
+</div>
 </div>
 
 <hr>
