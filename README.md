@@ -1,46 +1,43 @@
-<h3 align="left">👋 Olá, eu sou Andrius Anselmi — Estagiário em Desenvolvimento Mobile</h3>
-
+<h3 align="left">👋 Hi, I'm Andrius Anselmi</h3>
 <p align="left">
-  Atualmente atuo como <strong>estagiário de desenvolvimento mobile 📱</strong>, trabalhando com <strong>Flutter e Kotlin</strong>.<br>
-  Venho aprofundando meus estudos em <strong>Flutter, Dart e Kotlin</strong>, com foco em boas práticas, UI responsiva e integração com APIs 💡
+  🎓 Computer Science Student | 📱 Mobile Development Intern<br><br>
+  Passionate about technology and building real-world solutions.
+  I work with Flutter and Kotlin in mobile development, and explore languages like Python, C and C++
+  in personal projects focused on logic and data structures. 💡
 </p>
 
 <hr>
 
-<h2 align="left">🧠 Sobre mim</h2>
-
+<h2 align="left">🧠 About me</h2>
 <ul align="left">
- <ul align="left">
-  <li>🌱 Estudando atualmente: Flutter, Dart, Kotlin e desenvolvimento mobile</li>
-  <li>💬 Podemos conversar sobre: Flutter, Dart, Kotlin e Android</li>
-  <li>📫 Contato: <a href="mailto:aandrius.anselmi@gmail.com">aandrius.anselmi@gmail.com</a></li>
-</ul>
+  <li>🔭 Currently working with: Flutter, Dart and Kotlin</li>
+  <li>🌱 Studying: Computer Science + mobile development best practices</li>
+  <li>💡 Interests: Mobile, back-end, algorithms and data structures</li>
+  <li>📫 Contact: aandrius.anselmi@gmail.com</li>
+  <li>🌎 Porto Alegre, RS — Brazil</li>
 </ul>
 
 <hr>
 
-<h2 align="left">🛠️ Tecnologias</h2>
+<h2 align="left">🛠️ Technologies</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="Logo Flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="Flutter" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="Logo Dart" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="Dart" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="Logo Kotlin" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="Kotlin" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Logo Android Studio" />
-</div>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img width="20" />
 </div>
 
 <hr>
 
-<h2 align="left">📈 Atividade no GitHub</h2>
-
-<img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/output/snake.svg" alt="Animação Snake mostrando minha atividade no GitHub" />
-
+<h2 align="left">📈 GitHub Activity</h2>
+<img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/output/snake.svg" alt="Snake animation showing GitHub activity" />
 <br>
-
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Andrius-Anselmi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrius-Anselmi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
-  <img src="https://github-profile-trophy.vercel.app?username=Andrius-Anselmi&theme=tokyonight&column=-1&row=1&margin-w=9&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="Troféus do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=Andrius-Anselmi&theme=github-dark&locale=en" height="150" alt="GitHub Streak" />
 </div>
