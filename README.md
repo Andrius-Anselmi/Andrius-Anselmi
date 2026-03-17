@@ -5,37 +5,34 @@
 </td>
 <td width="55%" valign="top">
 
-## Andrius Anselmi
+<h2>Andrius Anselmi</h2>
 
-Computer Science student and Software Engineer Intern.
+<p>Computer Science student and Software Engineer Intern.
 Work spans mobile development with Flutter and Kotlin, and backend exploration with Java and Spring Boot.
-Main interests include algorithms, data structures, and building real-world solutions.
+Main interests include algorithms, data structures, and building real-world solutions.</p>
 
-&nbsp;
+<h3>Areas of Interest</h3>
+<ul>
+  <li>Mobile development (Android, Flutter)</li>
+  <li>Backend architecture and REST APIs</li>
+  <li>Algorithms and data structures</li>
+  <li>Low-level programming (C, C++)</li>
+  <li>Software engineering best practices</li>
+</ul>
 
-**Areas of Interest**
+<h3>Technologies</h3>
+<ul>
+  <li><b>Mobile:</b> Flutter, Dart, Kotlin, Android Studio</li>
+  <li><b>Backend:</b> Java, Spring Boot, Python</li>
+  <li><b>Systems:</b> C, C++</li>
+  <li><b>Tools:</b> Git, Linux</li>
+</ul>
 
-- Mobile development (Android, Flutter)
-- Backend architecture and REST APIs
-- Algorithms and data structures
-- Low-level programming (C, C++)
-- Software engineering best practices
-
-&nbsp;
-
-**Technologies**
-
-- **Mobile:** Flutter, Dart, Kotlin, Android Studio
-- **Backend:** Java, Spring Boot, Python
-- **Systems:** C, C++
-- **Tools:** Git, Linux
-
-&nbsp;
-
-**Contact**
-
-- Email: aandrius.anselmi@gmail.com
-- Location: Porto Alegre, RS — Brazil
+<h3>Contact</h3>
+<ul>
+  <li>Email: aandrius.anselmi@gmail.com</li>
+  <li>Location: Porto Alegre, RS — Brazil</li>
+</ul>
 
 </td>
 </tr>
