@@ -1,14 +1,7 @@
-<!--
-  Substitua ./banner.svg pelo caminho da imagem que você subiu no repositório
-  O arquivo banner.svg foi gerado — suba ele no seu repositório e referencie aqui
--->
-
 <table>
 <tr>
 <td width="45%" valign="top">
-
 <img src="./banner.svg" width="100%"/>
-
 </td>
 <td width="55%" valign="top">
 
@@ -18,9 +11,9 @@ Computer Science student and Software Engineer Intern.
 Work spans mobile development with Flutter and Kotlin, and backend exploration with Java and Spring Boot.
 Main interests include algorithms, data structures, and building real-world solutions.
 
----
+&nbsp;
 
-### Areas of Interest
+**Areas of Interest**
 
 - Mobile development (Android, Flutter)
 - Backend architecture and REST APIs
@@ -28,20 +21,20 @@ Main interests include algorithms, data structures, and building real-world solu
 - Low-level programming (C, C++)
 - Software engineering best practices
 
----
+&nbsp;
 
-### Technologies
+**Technologies**
 
 - **Mobile:** Flutter, Dart, Kotlin, Android Studio
 - **Backend:** Java, Spring Boot, Python
 - **Systems:** C, C++
 - **Tools:** Git, Linux
 
----
+&nbsp;
 
-### Contact
+**Contact**
 
-- Email: [aandrius.anselmi@gmail.com](mailto:aandrius.anselmi@gmail.com)
+- Email: aandrius.anselmi@gmail.com
 - Location: Porto Alegre, RS — Brazil
 
 </td>
