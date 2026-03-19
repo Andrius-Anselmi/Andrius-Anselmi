@@ -28,7 +28,6 @@
 <h3>Let's connect</h3>
 <ul>
   <li>Email: aandrius.anselmi@gmail.com</li>
-  <li>Porto Alegre, RS — Brazil</li>
 </ul>
 
 </td>
