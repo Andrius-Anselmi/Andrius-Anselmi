@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="./mountain.png" width="100%" height="100%" style="object-fit: cover;"/>
+<img src="./mountain.png" width="100%"/>
 </td>
 <td width="50%" valign="top">
 
@@ -11,9 +11,11 @@ Software Engineer Intern · CS Student · Rio Grande do Sul, Brazil
 
 ---
 
-I build backend systems that are meant to last. My focus is on Java and Spring Boot — layered architecture, clean contracts, the kind of code that doesn't fall apart when requirements change.
+I'm a curious person who ended up in backend development for a simple reason: I like logic, and I hate CSS.
 
-Currently learning by doing: studying computer science, working as an intern, and shipping real projects in between.
+My focus is on Java and Spring Boot. The kind of work where the problem is interesting, the architecture matters, and there's always something new to figure out.
+
+Currently studying CS, working as an intern, and building things that actually make sense under the hood.
 
 ---
 
