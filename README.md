@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-<img src="./banner2.png" width="100%"/>
+<td width="50%" valign="top" height="1px">
+<img src="./banner2.png" width="100%" height="100%" style="object-fit: cover;"/>
 </td>
 <td width="50%" valign="top">
 
