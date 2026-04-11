@@ -1,9 +1,9 @@
-<table>
+<table width="100%">
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 <img src="./banner2.png" width="100%"/>
 </td>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## Andrius Anselmi
 
