@@ -1,9 +1,9 @@
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="./mountain.png" width="100%"/>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top"> -->
 
 ## Andrius Anselmi
 
@@ -29,6 +29,6 @@ Java · Spring Boot · PostgreSQL · REST APIs · Python · C · C++ · Git · L
 
 [linkedin.com/in/andrius-anselmi](https://linkedin.com/in/andrius-anselmi) · aandrius.anselmi@gmail.com
 
-</td>
+<!-- </td>
 </tr>
-</table>
+</table> -->
