@@ -7,7 +7,7 @@
 
 ## Andrius Anselmi
 
-Software Engineer Intern · CS Student · Rio Grande do Sul, Brazil
+Software Engineer Intern · CS Student · RS, Brazil
 
 ---
 
