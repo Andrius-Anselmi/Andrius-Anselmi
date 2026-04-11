@@ -5,30 +5,27 @@
 </td>
 <td width="55%" valign="top">
 
-<h2>Andrius Anselmi</h2>
+## Andrius Anselmi
 
-<p>CS student & Software Engineer Intern. Passionate about building things that actually work — from mobile apps to backend systems. Always learning, always shipping.</p>
+Software Engineer Intern · CS Student · Rio Grande do Sul, Brazil
 
-<h3>What I'm into</h3>
-<ul>
-  <li>Mobile development (Android, Flutter)</li>
-  <li>Backend architecture & REST APIs</li>
-  <li>Algorithms and data structures</li>
-  <li>Low-level programming (C, C++)</li>
-  <li>Writing clean, maintainable code</li>
-</ul>
+---
 
-<h3>Technologies</h3>
-<ul>
-  <li>Languages: Java, Python, C++</li>
-  <li>Applications: Android development, Spring Boot, REST APIs</li>
-  <li>Tools: Git, Linux</li>
-</ul>
+I build backend systems that are meant to last. My focus is on Java and Spring Boot — layered architecture, clean contracts, the kind of code that doesn't fall apart when requirements change.
 
-<h3>Let's connect</h3>
-<ul>
-  <li>Email: aandrius.anselmi@gmail.com</li>
-</ul>
+Currently learning by doing: studying computer science, working as an intern, and shipping real projects in between.
+
+---
+
+**Stack**
+
+Java · Spring Boot · PostgreSQL · REST APIs · Python · C · C++ · Git · Linux
+
+---
+
+**Reach me**
+
+[linkedin.com/in/andrius-anselmi](https://linkedin.com/in/andrius-anselmi) · aandrius.anselmi@gmail.com
 
 </td>
 </tr>
