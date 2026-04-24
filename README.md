@@ -15,16 +15,16 @@
 [![Email](https://img.shields.io/badge/Email-aandrius.anselmi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aandrius.anselmi@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Rio_Grande_do_Sul,_BR-gray?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+like+logic%2C+and+I+hate+CSS.;Backend+is+where+the+real+decisions+happen." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=750&height=50&lines=I+like+logic%2C+and+backend+is+where+the+interesting+decisions+happen.;Currently+building+things+that+actually+make+sense+under+the+hood." alt="Typing SVG" />
 
 </div>
 
 ---
 
 I'm a curious person who ended up in backend development for a simple reason:
-**I like logic, and I hate CSS.**
+**I like logic, and backend is where the interesting decisions happen.**
 
-My focus is on **Java** and **Spring Boot** — the kind of work where the problem is interesting, the architecture matters, and there's always something new to figure out.
+My focus is on **Java** and **Spring Boot**, the kind of work where the problem is interesting, the architecture matters, and there's always something new to figure out.
 
 Currently studying CS, working as an intern, and building things that actually make sense under the hood.
 
@@ -37,8 +37,8 @@ public class Andrius {
 
     String[]  languages  = { "Java", "Python", "C", "C++" };
     String[]  frameworks = { "Spring Boot", "Spring MVC" };
-    String[]  databases  = { "PostgreSQL" };
-    String[]  tools      = { "Git", "Linux", "Maven", "REST APIs" };
+    String[]  databases  = { "PostgreSQL", "MySQL" };
+    String[]  tools      = { "Git", "Linux", "AWS", "Maven", "REST APIs" };
     String    focus      = "Backend · Microservices · Clean Architecture";
 
 }
@@ -68,11 +68,10 @@ public class Andrius {
 ## What I'm working on
 
 ```
-▸ Studying Computer Science                        [████████████░░░░]  ~75%
+▸ Studying Computer Science                        [███████░░░░░░░░░]  ~40%
 ▸ Software Engineering Internship                  [██████████████░░]  ongoing
 ▸ Building backend projects worth showing          [███████████████░]  always
 ```
-
 ---
 
 ## GitHub Stats
@@ -97,6 +96,7 @@ public class Andrius {
 | Project | Stack | What it does |
 |---|---|---|
 | [**concur-expense-audit-service**](https://github.com/Andrius-Anselmi/concur-expense-audit-service) | `Java 17` `Spring Boot` `JUnit 5` | Microservice that automates corporate expense auditing with policy-based approval workflows |
+| [**YouKn0wWho-Academy**](https://github.com/Andrius-Anselmi/YouKn0wWho-Academy) | `C++` `Codeforces` | Competitive programming exercises from the YouKn0wWho Academy course — all submitted and accepted |
 
 ---
 
