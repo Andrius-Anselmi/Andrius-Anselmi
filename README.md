@@ -38,7 +38,7 @@ public class Andrius {
     String[]  languages  = { "Java", "Python", "C", "C++" };
     String[]  frameworks = { "Spring Boot", "Spring MVC" };
     String[]  databases  = { "PostgreSQL", "MySQL" };
-    String[]  tools      = { "Git", "Linux", "AWS", "Maven", "REST APIs" };
+    String[]  tools      = { "Git", "Linux", "Docker", "AWS", "Maven", "REST APIs" };
     String    focus      = "Backend · Microservices · Clean Architecture";
 
 }
@@ -59,7 +59,8 @@ public class Andrius {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 </div>
 
