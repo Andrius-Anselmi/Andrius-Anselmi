@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝
 ```
 
-### Software Engineer Intern · CS Student · RS, Brazil
+### Software Engineer · CS Student · RS, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrius--anselmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrius-anselmi)
 [![Email](https://img.shields.io/badge/Email-aandrius.anselmi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aandrius.anselmi@gmail.com)
