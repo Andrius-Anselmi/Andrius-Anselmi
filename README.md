@@ -79,12 +79,9 @@ public class Andrius {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andrius-Anselmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrius-Anselmi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrius-anselmi&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/output/github-contribution-grid-snake-dark.svg)
 
