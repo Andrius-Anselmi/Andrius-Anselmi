@@ -93,7 +93,7 @@ public class Andrius {
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**concur-expense-audit-service**](https://github.com/Andrius-Anselmi/concur-expense-audit-service) | `Java 17` `Spring Boot` `JUnit 5` | Microservice that automates corporate expense auditing with policy-based approval workflows |
+| [**cinelog**](https://github.com/Andrius-Anselmi/cinelog) | `Java 17` `Spring Boot` `Spring Security` `JWT` `Docker`| REST API for managing movies, categories and streaming platforms. Features full CRUD operations, relationship mapping between entities and JWT authentication.|
 | [**YouKn0wWho-Academy**](https://github.com/Andrius-Anselmi/YouKn0wWho-Academy) | `C++` `Codeforces` | Competitive programming exercises from the YouKn0wWho Academy course — all submitted and accepted |
 
 ---
