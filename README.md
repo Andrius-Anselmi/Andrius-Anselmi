@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Andrius, Java backend dev, the frontend is not my problem</h2>
+<h2 align="center">Hi 👋 I'm Andrius, CS student who lives in the backend</h2>
 
 ###
 
