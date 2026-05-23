@@ -9,9 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Andrius-Anselmi&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
@@ -36,11 +35,5 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Andrius-Anselmi/Andrius-Anselmi/snake-output/snake.svg" alt="Snake animation" />
 
 ###
