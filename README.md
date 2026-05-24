@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Andrius, CS student who lives in the backend</h2>
+<h2 align="center">Hi, I'm Andrius, a CS student passionate about backend development with Java, always learning something new. ☕</h2>
 
 ###
 
