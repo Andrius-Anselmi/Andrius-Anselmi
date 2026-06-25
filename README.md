@@ -6,49 +6,6 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      <a href="#projetos">
-        <h3>🗂️</h3>
-        <b>My Projects</b>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="#contato">
-        <h3>✉️</h3>
-        <b>Contact</b>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="#sobre">
-        <h3>🐻</h3>
-        <b>About Me</b>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="#resumo">
-        <h3>📄</h3>
-        <b>My Resume</b>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="#skills">
-        <h3>⭐</h3>
-        <b>My Skills</b>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="#stats">
-        <h3>📊</h3>
-        <b>GitHub Stats</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
