@@ -25,6 +25,8 @@ jobs:
           filename: metrics.skyline.svg
           base: ""
           plugin_skyline: yes
+          plugins_errors_fatal: yes
+          debug: yes
 
       # Linguagens mais usadas
       - uses: lowlighter/metrics@latest
@@ -43,3 +45,5 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugins_errors_fatal: yes
+          debug: yes
