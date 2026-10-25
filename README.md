@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0B3D1E,100:2EA043&height=220&section=header&text=ANDRIUS&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Developer+in+training;Backend+%26+low-level+enthusiast;Linux+user;Always+learning" alt="Animated text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Developer+in+training;Backend+%26+low-level+enthusiast;Linux+user;Always+learning" alt="Animated text" /> -->
 </p>
 
 <p align="center">
@@ -60,6 +60,6 @@
   </a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,40:0B3D1E,100:000000&height=120&section=footer" width="100%" />
-</p>
+</p> -->
