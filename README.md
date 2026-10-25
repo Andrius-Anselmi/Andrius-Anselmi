@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou ANDRIUS 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   Gosto de código, de coisas visuais e de ver tudo em 2D, 3D e com um pouco de animação.
-</p>
+</p> -->
 
 ---
 
